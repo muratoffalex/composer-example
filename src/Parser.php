@@ -42,5 +42,10 @@ class Parser implements ParserInterface
     {
         // feature 2
     }
+    
+    public function test3()
+    {
+        // feature 3
+    }
 
 }
